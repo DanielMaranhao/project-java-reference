@@ -6,7 +6,7 @@ A maioria dos projetos em código aqui presentes estão bastante parecidos com o
 
 Este projeto não tem intenção alguma de ser visto como uma possível crítica ao material criado pelo Prof. Nélio, mas meramente como um acréscimo, organizando o conteúdo para tentar torná-lo mais acessível aos alunos ao ser utilizado em conjunto com o curso do professor. Espero que este material possa te ajudar a organizar melhor suas ideias com relação a programação, e talvez a prosseguir melhor com o próprio curso e até mesmo após o seu término.
 
-### Exemplos (Código)
+### Exemplos/Exercícios (Código)
 
 - [Programas](Programs)
 

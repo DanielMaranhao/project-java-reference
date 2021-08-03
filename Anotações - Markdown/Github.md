@@ -25,7 +25,7 @@
 **Para apagar o último commit local e do Github (sem alterar o código local)**
 
 - git reset --soft HEAD~1
-- git push -f origin HEAD^:main
+- git push -f origin HEAD^:main (Necessário commitar antes de realizar esse comando)
 
 **Disassociar um projeto do GitHub**
 

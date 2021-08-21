@@ -88,7 +88,7 @@ public class Program {
 		System.out.println();
 		
 		// The difference in hours between an instant in local time zone and the same instant in UTC, to get the local-UTC offset
-		// Logic: the function below subtracts the second parameter from the first parameter, so it is the same logic as the other offset calculation. 
+		// Logic: the function below returns the second parameter minus the first parameter, so it is the same logic as the other offset calculation.
 		long utcOffsetMoment = ChronoUnit.HOURS.between(dateTimeMoment, dateTimeUtcMoment);
 		System.out.println("Local Time Zone: " + utcOffsetMoment + " UTC");
 		System.out.println();

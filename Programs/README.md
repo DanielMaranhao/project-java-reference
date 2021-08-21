@@ -41,3 +41,5 @@
 - Exercício 5 - JavaFX
   - Tudo do capítulo original foi usado em um único programa
   - Pequena melhoria no RegEx do Double (mais sucinto)
+
+**Obs**: Os programas de JDBC e JavaFX devem ser acrescidos das User Libraries (MySQL Java Connector e os 8 JARs dentro da pasta lib no JavaFX SDK, respectivamente). O programa de JavaFX deve receber o VM argument (encontra-se na anotação de JavaFX).

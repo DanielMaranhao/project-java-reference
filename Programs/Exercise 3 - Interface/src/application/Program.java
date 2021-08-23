@@ -21,6 +21,7 @@ public class Program {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+		
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
 		System.out.println("Enter contract data");

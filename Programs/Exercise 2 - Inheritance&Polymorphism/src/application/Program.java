@@ -43,7 +43,8 @@ public class Program {
 				System.out.print("Additional charge: ");
 				double additionalCharge = sc.nextDouble();
 				employees.add(new OutsourcedEmployee(name, hours, valuePerHour, additionalCharge));				
-			} else {
+			} 
+			else {
 				employees.add(new Employee(name, hours, valuePerHour));				
 			}			
 			System.out.println();			

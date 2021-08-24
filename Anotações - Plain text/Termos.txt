@@ -24,7 +24,7 @@ Design Patterns
 	- Model: Núcleo do programa
 	- View: Interface do usuário
 	- Controller: Comunicação entre camadas
-- SOLID -> príncipios para tornar o software compreensível, flexível e de fácil manutenção
+- SOLID -> princípios para tornar o software compreensível, flexível e de fácil manutenção
 	- Single-responsibility principle: Cada módulo deve ter uma única responsabilidade
 	- Open–closed principle: Interfaces devem ser utilizadas, pois mesmo se a classe mudar, o contrato não será quebrado
 	- Liskov substitution principle: Objetos de uma superclasse devem ser substituíveis por objetos de suas subclasses sem quebrar o programa

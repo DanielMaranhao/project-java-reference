@@ -17,10 +17,6 @@ Para realizar commits
 - git commit -m "commit description"
 - git push
 
-Para apagar o último commit local e do Github (sem alterar o código local)
-- git reset --soft HEAD~1
-- git push -f origin HEAD^:main (Necessário commitar antes de realizar esse comando)
-
 Disassociar um projeto do GitHub
 - Apagar .git
 

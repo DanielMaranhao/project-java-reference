@@ -5,8 +5,8 @@
 - **REST**: Conjuntos de melhores práticas associadas a Web Services e sua comunicação HTTP
 - **Web Resource**: Objeto na web que pode ser manipulado através de um identificador (Ex: User)
 - **Web Service**: Programa de um servidor esperando requisições em uma porta e servindo recursos, ou um serviço oferecido por um servidor a outro servidor
-- **URI**: O identificador do recurso -> www.meusite.com/users
-- **URL**: URI acrescido do protocolo -> http://www.meusite.com/users
+- **URI**: O identificador do recurso -> www<area>.meusite.com/users
+- **URL**: URI acrescido do protocolo -> http<area>://www<area>.meusite.com/users
 - **URN**: URI que retorna as URLs com aquele recurso (Pouco usado)
 - **IRI**: URI com qualquer tipo de caractere (Pouco usado)
 
